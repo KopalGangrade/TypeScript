@@ -1,0 +1,15 @@
+TS (TypeScript)
+
+superset of JS.
+
+note - can not add ts file in html direactly add js file created after ts file compileation.
+
+
+2. DATA TYPE 
+a. number  b. string  c. boolean
+
+reasign is posible
+
+important - if we want to add to value so we need to check their type using condition to not get any errors. But using typescript can do it easy, just adding type of variale instant.
+
+important - if varibale is not defined then its type will be any. we can asign any type of data.

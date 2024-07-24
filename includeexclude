@@ -1,0 +1,14 @@
+tsconfig.json file me 
+
+
+"exclude":[
+    "student.ts",
+    "inner" // [folder]
+    "src/app.ts" //[folder/file]
+    "*/test.ts" //[same file at similer folder]
+]
+
+"include":[
+    "inner",
+    "app.ts",
+]

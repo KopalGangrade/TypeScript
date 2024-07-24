@@ -1,0 +1,10 @@
+class user{
+    name:"";
+    email:"";
+addUser(user){
+    return `${user}is added`
+}
+}
+
+let user1 = new user;
+user1.addUser('anil')

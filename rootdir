@@ -1,0 +1,5 @@
+tsc
+
+config file 
+
+"outDir":"./build",
